@@ -1,0 +1,40 @@
+{
+    "items":[
+        {
+            "ItemImg": "https://github.com/Hubrisy/images/raw/main/sekator.jpg",
+            "PastPrice": "1999",
+            "CurrentPrice": "1099",
+            "ItemName": "Секатор-висоторіз"
+        },
+        {
+            "ItemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
+            "PastPrice": "1950",
+            "CurrentPrice": "1250",
+            "ItemName": "Міні-пила"
+        },
+        {
+            "ItemImg": "https://github.com/Hubrisy/images/raw/main/main12.png",
+            "PastPrice": "3200",
+            "CurrentPrice": "1930",
+            "ItemName": "Землероб"
+        },
+        {
+            "ItemImg": "https://github.com/Hubrisy/images/raw/main/cultivator.jpg",
+            "PastPrice": "2199",
+            "CurrentPrice": "1599",
+            "ItemName": "Культиватор"
+        },
+        {
+            "ItemImg": "https://github.com/Hubrisy/images/raw/main/892702.png",
+            "PastPrice": "585",
+            "CurrentPrice": "399",
+            "ItemName": "Саджалка"
+        },
+        {
+            "ItemImg": "https://github.com/Hubrisy/images/raw/main/sekator3.png",
+            "PastPrice": "450",
+            "CurrentPrice": "299",
+            "ItemName": "Секатор"
+        }
+    ]
+}
