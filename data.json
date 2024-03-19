@@ -31,7 +31,7 @@
           "currentPrice": "1250",
         "totalPrice": "1250",
           "itemName": "Міні-пила",
-          "id": "2",
+          "id": "308",
         "count": "1",
     "characteristic": [
       "Тип товару: мініпилка акумуляторна/пила на акумуляторі",
@@ -60,7 +60,7 @@
           "currentPrice": "1930",
         "totalPrice": "1930",
           "itemName": "Землероб",
-          "id": "3",
+          "id": "311",
         "count": "1",
     "characteristic": [
       "Країна виробник: Україна",
@@ -85,7 +85,7 @@
           "currentPrice": "1599",
         "totalPrice": "1599",
           "itemName": "Культиватор",
-          "id": "4",
+          "id": "355",
         "count": "1",
     "characteristic": [
       "Країна виробник: Японія",
@@ -127,8 +127,8 @@
           "pastPrice": "450",
           "currentPrice": "299",
          "totalPrice": "299",
-          "itemName": "Секатор",
-          "id": "6",
+          "itemName": "Садові ножиці-секатор",
+          "id": "423",
         "count": "1",
     "characteristic": [
       "Країна-виробник: Україна",
